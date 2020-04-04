@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alisher\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alisher\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_FallBlock.-531340064.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alisher\UnityMyFolder\FallBlock" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ExternalAssets" t="Include">
+          <e p="MobileJoystick" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Button.cs" t="Include" />
+              <e p="Example" t="Include">
+                <e p="BoxMover.cs" t="Include" />
+              </e>
+              <e p="Joystick.cs" t="Include" />
+              <e p="TouchField.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Time of Day" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Editor" t="Include">
+                <e p="TOD_CameraInspector.cs" t="Include" />
+                <e p="TOD_SkyInspector.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Doxyfile.cs" t="Include" />
+                <e p="TOD_Animation.cs" t="Include" />
+                <e p="TOD_Camera.cs" t="Include" />
+                <e p="TOD_Components.cs" t="Include" />
+                <e p="TOD_Enums.cs" t="Include" />
+                <e p="TOD_Parameters.cs" t="Include" />
+                <e p="TOD_PostEffectsBase.cs" t="Include" />
+                <e p="TOD_Rays.cs" t="Include" />
+                <e p="TOD_Resources.cs" t="Include" />
+                <e p="TOD_Sky+API.cs" t="Include" />
+                <e p="TOD_Sky+Settings.cs" t="Include" />
+                <e p="TOD_Sky+Unity.cs" t="Include" />
+                <e p="TOD_Sky.cs" t="Include" />
+                <e p="TOD_Time.cs" t="Include" />
+                <e p="TOD_Util.cs" t="Include" />
+                <e p="TOD_Weather.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Atmosphere.shader" t="Include" />
+                <e p="Clear Alpha.shader" t="Include" />
+                <e p="Cloud Layers (Bumped).shader" t="Include" />
+                <e p="Cloud Layers (Density).shader" t="Include" />
+                <e p="Cloud Layers (Fastest).shader" t="Include" />
+                <e p="Cloud Shadows (1).shader" t="Include" />
+                <e p="Cloud Shadows (2).shader" t="Include" />
+                <e p="Moon (Flat).shader" t="Include" />
+                <e p="Moon.shader" t="Include" />
+                <e p="PP God Rays.shader" t="Include" />
+                <e p="PP Screen Clear.shader" t="Include" />
+                <e p="Space (Cube).shader" t="Include" />
+                <e p="Space.shader" t="Include" />
+                <e p="Sun (No Animation).shader" t="Include" />
+                <e p="Sun.shader" t="Include" />
+                <e p="TOD_Base.cginc" t="Include" />
+                <e p="TOD_Scattering.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="Examples" t="Include">
+              <e p="AudioAtDay.cs" t="Include" />
+              <e p="AudioAtNight.cs" t="Include" />
+              <e p="AudioAtWeather.cs" t="Include" />
+              <e p="DeviceTime.cs" t="Include" />
+              <e p="LightAtDay.cs" t="Include" />
+              <e p="LightAtNight.cs" t="Include" />
+              <e p="LightAtWeather.cs" t="Include" />
+              <e p="ParticleAtDay.cs" t="Include" />
+              <e p="ParticleAtNight.cs" t="Include" />
+              <e p="ParticleAtWeather.cs" t="Include" />
+              <e p="RenderAtDay.cs" t="Include" />
+              <e p="RenderAtNight.cs" t="Include" />
+              <e p="RenderAtWeather.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FollowTarget.cs" t="Include" />
+          <e p="HazardCollisionFunctions.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="SpawnHazards.cs" t="Include" />
+          <e p="SpawnHeart.cs" t="Include" />
+          <e p="TransformClock.cs" t="Include" />
+          <e p="TransformHeart.cs" t="Include" />
+          <e p="UIFunctions.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FallBlock.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
